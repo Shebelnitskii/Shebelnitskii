@@ -11,7 +11,7 @@ Skills: Python / Django/ DRF/ Postgresql/ HTML / CSS
   2. Shebelnitskiy@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shebelnitskii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sviatoslav-shebelnitskii-10a166281//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://t.me/shebelnitskiy)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shebelnitskii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sviatoslav-shebelnitskii-10a166281//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://t.me/shebelnitskiy)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shebelnitskii)](https://github.com/anuraghazra/github-readme-stats)
 
