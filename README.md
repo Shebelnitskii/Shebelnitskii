@@ -8,7 +8,8 @@ Skills: Python / Django/ DRF/ Postgresql/ HTML / CSS
 
 - 📫 How to reach me:
   1. [Telegram](https://t.me/shebelnitskiy)
-  2. [Shebelnitskiy@gmail.com](mailto:Shebelnitskiy@gmail.com) 
+  2. [Shebelnitskiy@gmail.com](mailto:Shebelnitskiy@gmail.com)
+  3. [LinkedIn](https://www.linkedin.com/in/shebelnitskii/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shebelnitskii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sviatoslav-shebelnitskii-10a166281//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://t.me/shebelnitskiy)  
@@ -17,7 +18,4 @@ Skills: Python / Django/ DRF/ Postgresql/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shebelnitskii&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shebelnitskii)  
-
-![GitHub metrics](https://metrics.lecoq.io/Shebelnitskii)  
 
